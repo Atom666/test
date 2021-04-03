@@ -1,0 +1,11 @@
+body{
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.red{
+    color: red;
+}
+.textCenter{
+    text-align: center;
+}
